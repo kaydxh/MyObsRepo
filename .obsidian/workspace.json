@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "自然语言.md",
+                "file": "LLM/大模型微调-三件套.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "自然语言.md",
+                "file": "LLM/大模型微调-三件套.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "自然语言.md",
+                "file": "LLM/大模型微调-三件套.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "自然语言.md"
+                "file": "LLM/大模型微调-三件套.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "9a610c854d94aff4",
   "lastOpenFiles": [
-    "示例图片/Pasted image 20230909220623.png",
+    "code/modeling_chatglm 2.py",
+    "code",
+    "新建文件夹",
+    "LLM/大模型微调-总介绍.md",
     "自然语言.md",
+    "示例图片/Pasted image 20230909220623.png",
     "示例图片/Pasted image 20230909232500.png",
     "示例图片/Pasted image 20230909231606.png",
     "示例图片/Pasted image 20230909222818.png",
@@ -161,7 +165,6 @@
     "示例图片/Pasted image 20230908015130.png",
     "示例图片/Pasted image 20230908015115.png",
     "JD",
-    "LLM/大模型微调-总介绍.md",
     "LLM/大模型技术一览.md",
     "LLM/gpu原理.md",
     "LLM/gpu并行计算.md",
@@ -173,8 +176,6 @@
     "未命名.canvas",
     "示例图片",
     "modeling_chatglm 2.py",
-    "modeling_chatglm 1.py",
-    "modeling_chatglm.py",
-    "finetune_adapter.py"
+    "modeling_chatglm 1.py"
   ]
 }
