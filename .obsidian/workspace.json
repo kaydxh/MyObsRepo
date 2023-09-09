@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "5c58c9711f1c8bc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f246a5fa977bd8c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a610c854d94aff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "自然语言.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01c7813acaa7af0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0319e05828d21b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fcb1f31cd0b809e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5083fba465d2aef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8aee6e72d3d57ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 352.5
+  },
+  "right": {
+    "id": "18c9eca8575550a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb9c9bb9e43e7cd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1892d3d269b4daa2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "自然语言.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ba678f89eb7f898",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "自然语言.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2b50d681861d742",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "308e880ea3974e00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "自然语言.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9a610c854d94aff4",
+  "lastOpenFiles": [
+    "示例图片/Pasted image 20230909220623.png",
+    "自然语言.md",
+    "示例图片/Pasted image 20230909232500.png",
+    "示例图片/Pasted image 20230909231606.png",
+    "示例图片/Pasted image 20230909222818.png",
+    "JD/机器质检.md",
+    "Pasted image 20230909220421.png",
+    "Pasted image 20230909220443.png",
+    "Pasted image 20230909214457.png",
+    "示例图片/Pasted image 20230908015141.png",
+    "示例图片/Pasted image 20230908015130.png",
+    "示例图片/Pasted image 20230908015115.png",
+    "JD",
+    "LLM/大模型微调-总介绍.md",
+    "LLM/大模型技术一览.md",
+    "LLM/gpu原理.md",
+    "LLM/gpu并行计算.md",
+    "LLM/大模型微调-三件套.md",
+    "compress.py",
+    "test_langchain.py",
+    "generate_vector.py",
+    "finetune_lora.py",
+    "未命名.canvas",
+    "示例图片",
+    "modeling_chatglm 2.py",
+    "modeling_chatglm 1.py",
+    "modeling_chatglm.py",
+    "finetune_adapter.py"
+  ]
+}
