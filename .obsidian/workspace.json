@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "01c4fc6dc20ba542",
+        "id": "cb0affa520478e68",
         "type": "tabs",
         "children": [
           {
-            "id": "4c637ea212e06353",
+            "id": "af57d1135be0c885",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "JD/图片/Pasted image 20230910224539.png"
+                "file": "LLM/gpu原理.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JD/图片/Pasted image 20230910224539.png",
+                "file": "LLM/gpu原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JD/图片/Pasted image 20230910224539.png",
+                "file": "LLM/gpu原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JD/图片/Pasted image 20230910224539.png"
+                "file": "LLM/gpu原理.md"
               }
             }
           }
@@ -144,11 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6fcb1f31cd0b809e",
+  "active": "af57d1135be0c885",
   "lastOpenFiles": [
-    "JD/图片",
-    "JD/图片/Pasted image 20230910224539.png",
+    "LLM/gpu并行计算.md",
+    "LLM/gpu原理.md",
+    "新建 文本文档.txt",
+    "README.md",
     "JD/机器质检.md",
+    "JD/~$dialog8000.xlsx",
+    "JD/图片/Pasted image 20230910224539.png",
+    "JD/dialog8000.xlsx",
+    "JD/图片",
     "~$dialog8000.xlsx",
     "dialog8000.xlsx",
     "LLM/大模型微调-三件套.md",
@@ -168,12 +176,6 @@
     "LLM/示例图片/Pasted image 20230908015130.png",
     "JD",
     "LLM/大模型技术一览.md",
-    "LLM/gpu原理.md",
-    "LLM/gpu并行计算.md",
-    "compress.py",
-    "test_langchain.py",
-    "generate_vector.py",
-    "finetune_lora.py",
     "未命名.canvas"
   ]
 }
