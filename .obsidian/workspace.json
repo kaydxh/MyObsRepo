@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f246a5fa977bd8c5",
+        "id": "01c4fc6dc20ba542",
         "type": "tabs",
         "children": [
           {
-            "id": "9a610c854d94aff4",
+            "id": "4c637ea212e06353",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "LLM/大模型微调-三件套.md",
-                "mode": "source",
-                "source": false
+                "file": "JD/图片/Pasted image 20230910224539.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/大模型微调-三件套.md",
+                "file": "JD/图片/Pasted image 20230910224539.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/大模型微调-三件套.md",
+                "file": "JD/图片/Pasted image 20230910224539.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/大模型微调-三件套.md"
+                "file": "JD/图片/Pasted image 20230910224539.png"
               }
             }
           }
@@ -146,36 +144,36 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9a610c854d94aff4",
+  "active": "6fcb1f31cd0b809e",
   "lastOpenFiles": [
+    "JD/图片",
+    "JD/图片/Pasted image 20230910224539.png",
+    "JD/机器质检.md",
+    "~$dialog8000.xlsx",
+    "dialog8000.xlsx",
+    "LLM/大模型微调-三件套.md",
     "code/modeling_chatglm 2.py",
     "code",
     "新建文件夹",
     "LLM/大模型微调-总介绍.md",
     "自然语言.md",
-    "示例图片/Pasted image 20230909220623.png",
-    "示例图片/Pasted image 20230909232500.png",
-    "示例图片/Pasted image 20230909231606.png",
-    "示例图片/Pasted image 20230909222818.png",
-    "JD/机器质检.md",
+    "LLM/示例图片/Pasted image 20230909220623.png",
+    "LLM/示例图片/Pasted image 20230909232500.png",
+    "LLM/示例图片/Pasted image 20230909231606.png",
+    "LLM/示例图片/Pasted image 20230909222818.png",
     "Pasted image 20230909220421.png",
     "Pasted image 20230909220443.png",
     "Pasted image 20230909214457.png",
-    "示例图片/Pasted image 20230908015141.png",
-    "示例图片/Pasted image 20230908015130.png",
-    "示例图片/Pasted image 20230908015115.png",
+    "LLM/示例图片/Pasted image 20230908015141.png",
+    "LLM/示例图片/Pasted image 20230908015130.png",
     "JD",
     "LLM/大模型技术一览.md",
     "LLM/gpu原理.md",
     "LLM/gpu并行计算.md",
-    "LLM/大模型微调-三件套.md",
     "compress.py",
     "test_langchain.py",
     "generate_vector.py",
     "finetune_lora.py",
-    "未命名.canvas",
-    "示例图片",
-    "modeling_chatglm 2.py",
-    "modeling_chatglm 1.py"
+    "未命名.canvas"
   ]
 }
