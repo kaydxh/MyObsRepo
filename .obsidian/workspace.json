@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/gpu原理.md",
+                "file": "LLM/gpu并行计算.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/gpu原理.md",
+                "file": "LLM/gpu并行计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/gpu原理.md",
+                "file": "LLM/gpu并行计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/gpu原理.md"
+                "file": "LLM/gpu并行计算.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "af57d1135be0c885",
   "lastOpenFiles": [
-    "LLM/gpu并行计算.md",
+    "LLM/大模型微调-三件套.md",
     "LLM/gpu原理.md",
+    "LLM/gpu并行计算.md",
     "新建 文本文档.txt",
     "README.md",
     "JD/机器质检.md",
@@ -159,7 +160,6 @@
     "JD/图片",
     "~$dialog8000.xlsx",
     "dialog8000.xlsx",
-    "LLM/大模型微调-三件套.md",
     "code/modeling_chatglm 2.py",
     "code",
     "新建文件夹",
