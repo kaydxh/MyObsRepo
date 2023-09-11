@@ -45,3 +45,5 @@ os.environ['CUDA_VISIBLE_DEVICES']="0,1" 一定要放在最开始；
 ![[Pasted image 20230831101810.png]]
 横轴N，纵轴：计算量C/N
 
+
+

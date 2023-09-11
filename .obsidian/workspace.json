@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cb0affa520478e68",
+        "id": "15adce3504d193cc",
         "type": "tabs",
         "children": [
           {
-            "id": "af57d1135be0c885",
+            "id": "d678b0806c722fbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/gpu并行计算.md",
+                "file": "JD/机器质检.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/gpu并行计算.md",
+                "file": "JD/机器质检.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/gpu并行计算.md",
+                "file": "JD/机器质检.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/gpu并行计算.md"
+                "file": "JD/机器质检.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "af57d1135be0c885",
+  "active": "d678b0806c722fbe",
   "lastOpenFiles": [
+    "LLM/gpu并行计算.md",
     "LLM/大模型微调-三件套.md",
     "LLM/gpu原理.md",
-    "LLM/gpu并行计算.md",
     "新建 文本文档.txt",
     "README.md",
     "JD/机器质检.md",
