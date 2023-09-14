@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JD/机器质检.md",
+                "file": "自然语言.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bcb2d0604cc024e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pytorch相关.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JD/机器质检.md",
+                "file": "pytorch相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JD/机器质检.md",
+                "file": "pytorch相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JD/机器质检.md"
+                "file": "pytorch相关.md"
               }
             }
           }
@@ -146,10 +159,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4a11f026fdeba2d2",
+  "active": "7bcb2d0604cc024e",
   "lastOpenFiles": [
-    "JD/图片/Pasted image 20230914012718.png",
+    "自然语言.md",
+    "pytorch相关.md",
     "JD/机器质检.md",
+    "JD/图片/Pasted image 20230914012718.png",
     "JD/~$dialog8000.xlsx",
     "对话质检结果_20230303_v2.xlsx",
     "question_classificaiton_bert.ipynb",
@@ -166,7 +181,6 @@
     "code/modeling_chatglm 2.py",
     "code",
     "LLM/大模型微调-总介绍.md",
-    "自然语言.md",
     "LLM/示例图片/Pasted image 20230909220623.png",
     "LLM/示例图片/Pasted image 20230909232500.png",
     "LLM/示例图片/Pasted image 20230909231606.png",
