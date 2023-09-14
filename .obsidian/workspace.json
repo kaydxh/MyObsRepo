@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "15adce3504d193cc",
+        "id": "0e3c8462a8fcc0ff",
         "type": "tabs",
         "children": [
           {
-            "id": "d678b0806c722fbe",
+            "id": "4a11f026fdeba2d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JD/机器质检.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JD/机器质检.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JD/机器质检.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JD/机器质检.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d678b0806c722fbe",
+  "active": "4a11f026fdeba2d2",
   "lastOpenFiles": [
-    "Pasted image 20230914012718.png",
+    "JD/图片/Pasted image 20230914012718.png",
+    "JD/机器质检.md",
     "JD/~$dialog8000.xlsx",
     "对话质检结果_20230303_v2.xlsx",
     "question_classificaiton_bert.ipynb",
@@ -157,7 +150,6 @@
     "LLM/gpu原理.md",
     "新建 文本文档.txt",
     "README.md",
-    "JD/机器质检.md",
     "JD/图片/Pasted image 20230910224539.png",
     "JD/dialog8000.xlsx",
     "JD/图片",
@@ -175,7 +167,6 @@
     "Pasted image 20230909220443.png",
     "Pasted image 20230909214457.png",
     "LLM/示例图片/Pasted image 20230908015141.png",
-    "LLM/示例图片/Pasted image 20230908015130.png",
     "LLM/大模型技术一览.md",
     "未命名.canvas"
   ]
