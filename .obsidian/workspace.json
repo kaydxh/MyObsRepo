@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pytorch相关.md",
+                "file": "JD/机器质检.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pytorch相关.md",
+                "file": "JD/机器质检.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pytorch相关.md",
+                "file": "JD/机器质检.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pytorch相关.md"
+                "file": "JD/机器质检.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "7bcb2d0604cc024e",
   "lastOpenFiles": [
-    "自然语言.md",
     "pytorch相关.md",
+    "自然语言.md",
     "JD/机器质检.md",
     "JD/图片/Pasted image 20230914012718.png",
     "JD/~$dialog8000.xlsx",
