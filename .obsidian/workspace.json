@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "机器学习.md",
+                "file": "JD/机器质检.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "机器学习.md",
+                "file": "JD/机器质检.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "机器学习.md",
+                "file": "JD/机器质检.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "机器学习.md"
+                "file": "JD/机器质检.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "74fee60a314451f3",
   "lastOpenFiles": [
-    "Pasted image 20230920015006.png",
     "自然语言.md",
     "机器学习.md",
+    "Pasted image 20230920015006.png",
     "JD/机器质检.md",
     "JD/对话质检结果_20230303_v2.xlsx",
     "code/question_classificaiton_bert.ipynb",
@@ -177,7 +177,6 @@
     "Pasted image 20230909220421.png",
     "Pasted image 20230909220443.png",
     "Pasted image 20230909214457.png",
-    "LLM/示例图片/Pasted image 20230908015141.png",
     "LLM/大模型技术一览.md",
     "未命名.canvas"
   ]
