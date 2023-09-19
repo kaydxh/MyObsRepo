@@ -161,6 +161,8 @@
   },
   "active": "7bcb2d0604cc024e",
   "lastOpenFiles": [
+    "JD/对话质检结果_20230303_v2.xlsx",
+    "code/question_classificaiton_bert.ipynb",
     "pytorch相关.md",
     "自然语言.md",
     "JD/机器质检.md",
@@ -179,7 +181,6 @@
     "~$dialog8000.xlsx",
     "dialog8000.xlsx",
     "code/modeling_chatglm 2.py",
-    "code",
     "LLM/大模型微调-总介绍.md",
     "LLM/示例图片/Pasted image 20230909220623.png",
     "LLM/示例图片/Pasted image 20230909232500.png",
