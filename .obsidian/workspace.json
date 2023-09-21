@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JD/机器质检.md",
+                "file": "自然语言.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JD/机器质检.md",
+                "file": "自然语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JD/机器质检.md",
+                "file": "自然语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JD/机器质检.md"
+                "file": "自然语言.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "6fcb1f31cd0b809e",
   "lastOpenFiles": [
-    "机器学习.md",
     "JD/机器质检.md",
+    "机器学习.md",
     "自然语言.md",
     "Pasted image 20230920015006.png",
     "JD/对话质检结果_20230303_v2.xlsx",
