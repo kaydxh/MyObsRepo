@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/gpu并行计算.md",
+                "file": "JD/机器质检.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/gpu并行计算.md",
+                "file": "JD/机器质检.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/gpu并行计算.md",
+                "file": "JD/机器质检.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/gpu并行计算.md"
+                "file": "JD/机器质检.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "0eb338a66a6ca3cb",
   "lastOpenFiles": [
-    "LLM/大模型微调-总介绍.md",
     "JD/机器质检v2.md",
+    "LLM/gpu并行计算.md",
+    "LLM/大模型微调-总介绍.md",
     "Pasted image 20231005225008.png",
     "Pasted image 20231005162823.png",
     "JD/图片/Pasted image 20231004223012.png",
@@ -164,7 +165,6 @@
     "JD/~$dialog8000.xlsx",
     "对话质检结果_20230303_v2.xlsx",
     "question_classificaiton_bert.ipynb",
-    "LLM/gpu并行计算.md",
     "LLM/大模型微调-三件套.md",
     "LLM/gpu原理.md",
     "新建 文本文档.txt",
