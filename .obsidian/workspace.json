@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JD/机器质检v2.md",
+                "file": "自然语言.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JD/机器质检v2.md",
+                "file": "自然语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JD/机器质检v2.md",
+                "file": "自然语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JD/机器质检v2.md"
+                "file": "自然语言.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "0eb338a66a6ca3cb",
   "lastOpenFiles": [
-    "JD/机器质检.md",
     "JD/机器质检v2.md",
+    "JD/机器质检.md",
     "LLM/gpu并行计算.md",
     "LLM/大模型微调-总介绍.md",
     "Pasted image 20231005225008.png",
