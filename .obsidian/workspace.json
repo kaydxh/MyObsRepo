@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "JD/机器质检v2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "JD/机器质检v2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "JD/机器质检v2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "JD/机器质检v2.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "0eb338a66a6ca3cb",
   "lastOpenFiles": [
+    "README.md",
     "pytorch相关.md",
     "Pasted image 20231005225008.png",
     "Pasted image 20231005162823.png",
@@ -168,7 +169,6 @@
     "LLM/大模型微调-三件套.md",
     "LLM/gpu原理.md",
     "新建 文本文档.txt",
-    "README.md",
     "JD/图片/Pasted image 20230910224539.png",
     "JD/dialog8000.xlsx",
     "JD/图片",
