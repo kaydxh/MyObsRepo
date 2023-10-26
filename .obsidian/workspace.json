@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/面经.md",
+                "file": "面试/LLM-interview/question/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 379.5
   },
   "right": {
     "id": "18c9eca8575550a1",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/面经.md",
+                "file": "面试/LLM-interview/question/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/面经.md",
+                "file": "面试/LLM-interview/question/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/面经.md"
+                "file": "面试/LLM-interview/question/README.md"
               }
             }
           }
@@ -159,10 +159,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ce9ff32bf9508b96",
+  "active": "6fcb1f31cd0b809e",
   "lastOpenFiles": [
-    "面试/面试学习.md",
+    "面试/LLM-interview/answer/大模型（LLMs）基础面.md",
     "面试/面经.md",
+    "面试/LLM-interview/answer/大模型（LLMs）langchain面/大模型（LLMs）langchain面.md",
+    "面试/LLM-interview/answer/大模型（LLMs）参数高效微调(PEFT)面/适配器微调（Adapter-tuning）篇.md",
+    "面试/LLM-interview/answer/大模型（LLMs）参数高效微调(PEFT)面/提示学习（Prompting）.md",
+    "面试/LLM-interview/answer/大模型（LLMs）参数高效微调(PEFT)面/大模型（LLMs）参数高效微调(PEFT)面.md",
+    "面试/LLM-interview/answer/大模型（LLMs）参数高效微调(PEFT)面/LoRA系列篇.md",
+    "面试/LLM-interview/answer/大模型（LLMs）langchain面/基于LLM+向量库的文档对话经验面.md",
+    "面试/LLM-interview/answer/大模型（LLMs）进阶面.md",
+    "面试/LLM-interview/answer/大模型（LLMs）软硬件配置面.md",
+    "面试/LLM-interview/question/README.md",
+    "面试/LLM-interview/answer/大模型（LLMs）训练集面.md",
+    "面试/LLM-interview/answer/大模型（LLMs）评测面.md",
+    "面试/LLM-interview/answer/大模型（LLMs）推理面.md",
+    "面试/LLM-interview/answer/大模型（LLMs）微调面.md",
+    "面试/LLM-interview/answer/大模型（LLMs）参数高效微调(PEFT)面",
+    "面试/LLM-interview/answer/大模型（LLMs）强化学习面.md",
+    "面试/LLM-interview/answer/大模型（LLMs）langchain面",
+    "面试/LLM-interview/answer/大模型（LLMs）agent面.md",
+    "面试/LLM-interview/answer/README.md",
+    "面试/LLM-interview/answer/LICENSE",
+    "面试/LLM-interview/question",
+    "面试/LLM-interview/answer",
+    "面试/LLM-interview",
+    "面试/面试学习.md",
     "机器学习.md",
     "未命名 1",
     "面试.md",
@@ -175,26 +198,15 @@
     "Pasted image 20231005162823.png",
     "JD/机器质检.md",
     "自然语言.md",
-    "LLM/gpu并行计算.md",
-    "LLM/大模型微调-总介绍.md",
     "JD/图片/Pasted image 20231004223012.png",
     "JD/图片/Pasted image 20230920015006.png",
     "JD/对话质检结果_20230303_v2.xlsx",
-    "code/question_classificaiton_bert.ipynb",
     "JD/图片/Pasted image 20230914012718.png",
-    "JD/~$dialog8000.xlsx",
-    "对话质检结果_20230303_v2.xlsx",
-    "question_classificaiton_bert.ipynb",
-    "LLM/大模型微调-三件套.md",
-    "LLM/gpu原理.md",
-    "新建 文本文档.txt",
     "JD/图片/Pasted image 20230910224539.png",
-    "JD/dialog8000.xlsx",
     "LLM/示例图片/Pasted image 20230909220623.png",
     "LLM/示例图片/Pasted image 20230909232500.png",
     "LLM/示例图片/Pasted image 20230909231606.png",
     "LLM/示例图片/Pasted image 20230909222818.png",
-    "LLM/大模型技术一览.md",
     "未命名.canvas"
   ]
 }
