@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/LLM-interview/question/README.md",
+                "file": "面试/LLM-interview/answer/大模型（LLMs）微调面.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/LLM-interview/总结&背诵.md",
+                "file": "面试/LLM-interview/answer/大模型（LLMs）微调面.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/LLM-interview/总结&背诵.md",
+                "file": "面试/LLM-interview/answer/大模型（LLMs）微调面.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/LLM-interview/总结&背诵.md"
+                "file": "面试/LLM-interview/answer/大模型（LLMs）微调面.md"
               }
             }
           }
@@ -159,14 +158,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "68915f93d395d728",
+  "active": "15b01183d0cc498e",
   "lastOpenFiles": [
+    "面试/LLM-interview/总结&背诵.md",
+    "面试/LLM-interview/answer/大模型（LLMs）微调面.md",
+    "面试/LLM-interview/answer/大模型（LLMs）agent面.md",
     "面试/LLM-interview/question/README.md",
     "面试/LLM-interview/answer/大模型（LLMs）训练集面.md",
-    "面试/LLM-interview/answer/大模型（LLMs）agent面.md",
-    "面试/LLM-interview/answer/大模型（LLMs）微调面.md",
     "面试/LLM-interview/answer/大模型（LLMs）推理面.md",
-    "面试/LLM-interview/总结&背诵.md",
     "面试/LLM-interview/answer/大模型（LLMs）软硬件配置面.md",
     "面试/LLM-interview/answer/大模型（LLMs）评测面.md",
     "面试/LLM-interview/answer/大模型（LLMs）进阶面.md",
