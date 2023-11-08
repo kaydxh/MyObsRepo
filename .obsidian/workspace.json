@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/大模型微调-三件套.md",
+                "file": "LLM/gpu原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,9 +173,13 @@
   },
   "active": "68915f93d395d728",
   "lastOpenFiles": [
-    "面试/LLM-interview/answer/大模型（LLMs）微调面.md",
+    "LLM/gpu原理.md",
+    "LLM/gpu并行计算.md",
+    "LLM/大模型微调-总介绍.md",
     "LLM/大模型微调-三件套.md",
+    "LLM/大模型技术一览.md",
     "面试/LLM-interview/question/README.md",
+    "面试/LLM-interview/answer/大模型（LLMs）微调面.md",
     "面试/LLM-interview/answer/大模型（LLMs）参数高效微调(PEFT)面/提示学习（Prompting）.md",
     "面试/LLM-interview/answer/大模型（LLMs）参数高效微调(PEFT)面/LoRA系列篇.md",
     "面试/LLM-interview/answer/大模型（LLMs）参数高效微调(PEFT)面/适配器微调（Adapter-tuning）篇.md",
@@ -203,12 +207,8 @@
     "面试/LLM-interview",
     "机器学习.md",
     "未命名 1",
-    "面试.md",
     "面试",
-    "JD/机器质检v2.md",
     "finetune.py",
-    "README.md",
-    "pytorch相关.md",
     "Pasted image 20231005225008.png",
     "Pasted image 20231005162823.png",
     "JD/图片/Pasted image 20231004223012.png",
