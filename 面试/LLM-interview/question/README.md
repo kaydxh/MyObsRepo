@@ -411,7 +411,7 @@
 - 四、流水线并行（Pipeline Parallelism）优缺点？
 
 
-### [图解分布式训练（二） —— nn.DataParallel面](https://articles.zsxq.com/id_ah2ibj3z22c7.html)
+### [图解分布式训练（二） —— nn.DataParallel (zsxq.com)](https://articles.zsxq.com/id_m3tdrv0wdlzr.html)
 
 - 为什么需要nn.DataParallel？
 - 一、pytorch中的GPU操作默认是什么样？
