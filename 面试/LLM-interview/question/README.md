@@ -403,8 +403,7 @@
   - 4.5 多机训练不通，DeepSPeed配置问题
   
 
-### [图解分布式训练（一） —— 流水线并行（Pipeline Parallelism）面](https://articles.zsxq.com/id_ah2ibj3z22c7.html)
-
+###  [图解分布式训练（一） —— 流水线并行（Pipeline Parallelism） (zsxq.com)](https://articles.zsxq.com/id_5116ludvwvww.html)
 - 为什么需要流水线并行（Pipeline Parallelism）？
 - 一、流水线并行（Pipeline Parallelism） 优化目标是什么？
 - 二、图解 流水线并行（Pipeline Parallelism）模型并行 必要性？
