@@ -183,17 +183,6 @@
 - 十、基于AI的文档解析有什么优缺点？
 
 
-### [基于LLM+向量库的文档对话 经验面](https://articles.zsxq.com/id_m9t1w8pokjpf.html)
-
-- 一、基于LLM+向量库的文档对话 基础面
-  - 1.1 为什么 大模型 需要 外挂(向量)知识库？
-  - 1.2. 基于LLM+向量库的文档对话 思路是怎么样？
-  - 1.3. 基于LLM+向量库的文档对话 核心技术是什么？
-  - 1.4. 基于LLM+向量库的文档对话 prompt 模板 如何构建？
-- 二、基于LLM+向量库的文档对话 存在哪些痛点？
-- 三、基于LLM+向量库的文档对话 工程示例面
-
-
 ## [大模型（LLMs）参数高效微调(PEFT) 面](https://articles.zsxq.com/id_ahk2br3igwx9.html)
 
 ### [大模型（LLMs）参数高效微调(PEFT) 面](https://articles.zsxq.com/id_ipkod91a939n.html)

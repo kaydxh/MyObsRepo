@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "18c9eca8575550a1",
@@ -171,7 +172,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "68915f93d395d728",
+  "active": "6fcb1f31cd0b809e",
   "lastOpenFiles": [
     "LLM/大模型技术一览.md",
     "LLM/gpu并行计算.md",
