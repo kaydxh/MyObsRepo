@@ -47,8 +47,12 @@
             "id": "17be211ff4644afb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "面试/自然语言.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -64,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JD/质检面试讲解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JD/质检面试讲解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JD/质检面试讲解.md"
+              }
             }
           }
         ]
@@ -188,13 +195,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "17be211ff4644afb",
+  "active": "68915f93d395d728",
   "lastOpenFiles": [
+    "面试/自然语言.md",
+    "JD/质检面试讲解.md",
     "面试/机器学习.md",
     "JD/机器质检.md",
-    "JD/质检面试讲解.md",
     "面试/pytorch相关.md",
-    "面试/自然语言.md",
     "LLM/大模型技术一览.md",
     "JD/图片/Pasted image 20231203170630.png",
     "JD/机器质检v2.md",
