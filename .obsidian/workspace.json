@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/自然语言.md",
+                "file": "面试/机器学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JD/质检面试讲解.md",
+                "file": "面试/机器学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JD/质检面试讲解.md",
+                "file": "面试/机器学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JD/质检面试讲解.md"
+                "file": "面试/机器学习.md"
               }
             }
           }
@@ -195,17 +195,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "68915f93d395d728",
+  "active": "17be211ff4644afb",
   "lastOpenFiles": [
-    "面试/自然语言.md",
     "JD/质检面试讲解.md",
-    "JD/机器质检.md",
     "面试/机器学习.md",
+    "面试/pytorch相关.md",
+    "面试/自然语言.md",
+    "JD/机器质检.md",
     "LLM/大模型技术一览.md",
     "JD/图片/Pasted image 20231203170630.png",
     "JD/机器质检v2.md",
     "JD/~$dialog8000.xlsx",
-    "面试/pytorch相关.md",
     "面试/面试学习.md",
     "面试/面经.md",
     "README.md",
