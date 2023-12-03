@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JD/机器质检.md",
+                "file": "JD/质检面试讲解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JD/机器质检.md",
+                "file": "JD/质检面试讲解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JD/机器质检.md"
+                "file": "JD/质检面试讲解.md"
               }
             }
           }
@@ -195,10 +195,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ece39467711c3bd9",
+  "active": "68915f93d395d728",
   "lastOpenFiles": [
-    "JD/质检面试讲解.md",
     "JD/机器质检.md",
+    "JD/质检面试讲解.md",
     "面试/自然语言.md",
     "JD/机器质检v2.md",
     "面试/机器学习.md",
