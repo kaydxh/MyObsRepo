@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JD/机器质检.md",
+                "file": "JD/质检面试讲解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JD/机器质检.md",
+                "file": "JD/质检面试讲解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JD/机器质检.md"
+                "file": "JD/质检面试讲解.md"
               }
             }
           }
@@ -195,11 +195,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ece39467711c3bd9",
+  "active": "6fcb1f31cd0b809e",
   "lastOpenFiles": [
+    "JD/图片/Pasted image 20231203170630.png",
     "JD/质检面试讲解.md",
-    "JD/机器质检v2.md",
     "JD/机器质检.md",
+    "JD/机器质检v2.md",
     "JD/~$dialog8000.xlsx",
     "面试/pytorch相关.md",
     "面试/自然语言.md",
@@ -224,7 +225,6 @@
     "面试/LLM-interview/总结&背诵.md",
     "面试/LLM-interview/answer/大模型（LLMs）训练集面.md",
     "面试/LLM-interview/answer/大模型（LLMs）推理面.md",
-    "面试/LLM-interview/answer/大模型（LLMs）软硬件配置面.md",
     "面试/LLM-interview/answer/大模型（LLMs）参数高效微调(PEFT)面",
     "面试/LLM-interview/answer/大模型（LLMs）langchain面",
     "面试/LLM-interview/answer/LICENSE",
@@ -242,7 +242,6 @@
     "JD/图片/Pasted image 20230910224539.png",
     "LLM/示例图片/Pasted image 20230909220623.png",
     "LLM/示例图片/Pasted image 20230909232500.png",
-    "LLM/示例图片/Pasted image 20230909231606.png",
     "未命名.canvas"
   ]
 }
