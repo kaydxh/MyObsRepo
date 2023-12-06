@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/历史内容.md",
+                "file": "面试/实习.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/历史内容.md",
+                "file": "面试/实习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/历史内容.md",
+                "file": "面试/实习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/历史内容.md"
+                "file": "面试/实习.md"
               }
             }
           }
@@ -207,11 +207,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "be47295d2ea31030",
+  "active": "6fcb1f31cd0b809e",
   "lastOpenFiles": [
+    "面试/图片",
+    "面试/面试学习.md",
+    "面试/实习.md",
     "面试/机器学习.md",
-    "面试/历史内容.md",
-    "Pasted image 20231207014322.png",
+    "面试/图片/Pasted image 20231207014322.png",
     "JD/质检面试讲解.md",
     "JD/机器质检.md",
     "面试/自然语言.md",
@@ -220,7 +222,6 @@
     "LLM/大模型技术一览.md",
     "JD/图片/Pasted image 20231203170630.png",
     "JD/~$dialog8000.xlsx",
-    "面试/面试学习.md",
     "面试/面经.md",
     "README.md",
     "LLM/gpu原理.md",
