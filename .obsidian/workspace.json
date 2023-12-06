@@ -209,12 +209,13 @@
   },
   "active": "be47295d2ea31030",
   "lastOpenFiles": [
-    "JD/质检面试讲解.md",
+    "面试/机器学习.md",
     "面试/历史内容.md",
+    "Pasted image 20231207014322.png",
+    "JD/质检面试讲解.md",
     "JD/机器质检.md",
     "面试/自然语言.md",
     "JD/机器质检v2.md",
-    "面试/机器学习.md",
     "面试/pytorch相关.md",
     "LLM/大模型技术一览.md",
     "JD/图片/Pasted image 20231203170630.png",
@@ -237,7 +238,6 @@
     "面试/LLM-interview/answer/大模型（LLMs）agent面.md",
     "面试/LLM-interview/总结&背诵.md",
     "面试/LLM-interview/answer/大模型（LLMs）训练集面.md",
-    "面试/LLM-interview/answer/大模型（LLMs）推理面.md",
     "面试/LLM-interview/answer/大模型（LLMs）参数高效微调(PEFT)面",
     "面试/LLM-interview/answer/大模型（LLMs）langchain面",
     "面试/LLM-interview/answer/LICENSE",
@@ -254,7 +254,6 @@
     "JD/图片/Pasted image 20230914012718.png",
     "JD/图片/Pasted image 20230910224539.png",
     "LLM/示例图片/Pasted image 20230909220623.png",
-    "LLM/示例图片/Pasted image 20230909232500.png",
     "未命名.canvas"
   ]
 }
