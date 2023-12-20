@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/自然语言.md",
+                "file": "JD/机器质检v2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/自然语言.md",
+                "file": "JD/机器质检v2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/自然语言.md"
+                "file": "JD/机器质检v2.md"
               }
             }
           }
@@ -183,12 +183,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "17be211ff4644afb",
+  "active": "c6ca95ba4e843087",
   "lastOpenFiles": [
+    "面试/自然语言.md",
     "面试/LLM-interview/answer/大模型（LLMs）微调面.md",
     "JD/质检面试讲解.md",
     "JD/机器质检.md",
-    "面试/自然语言.md",
     "Pasted image 20231210222348.png",
     "Pasted image 20231210222243.png",
     "Pasted image 20231210222139.png",
