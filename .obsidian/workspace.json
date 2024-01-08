@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/LLM-interview/question/README.md",
+                "file": "面试/机器学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/LLM-interview/question/README.md",
+                "file": "面试/机器学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/LLM-interview/question/README.md",
+                "file": "面试/机器学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/LLM-interview/question/README.md"
+                "file": "面试/机器学习.md"
               }
             }
           }
@@ -185,6 +185,7 @@
   },
   "active": "17be211ff4644afb",
   "lastOpenFiles": [
+    "面试/LLM-interview/question/README.md",
     "面试/LLM-interview/总结&背诵.md",
     "面试/LLM-interview/answer/大模型（LLMs）微调面.md",
     "面试/LLM-interview/answer/大模型（LLMs）推理面.md",
@@ -197,7 +198,6 @@
     "面试/LLM-interview/answer/大模型（LLMs）参数高效微调(PEFT)面/大模型（LLMs）参数高效微调(PEFT)面.md",
     "面试/LLM-interview/answer/大模型（LLMs）langchain面/基于LLM+向量库的文档对话经验面.md",
     "面试/LLM-interview/answer/大模型（LLMs）langchain面/大模型（LLMs）langchain面.md",
-    "面试/LLM-interview/question/README.md",
     "面试/机器学习.md",
     "面试/自然语言.md",
     "JD/质检面试讲解.md",
