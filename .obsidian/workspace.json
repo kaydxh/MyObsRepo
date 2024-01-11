@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JD/机器质检v2.md",
+                "file": "面试/自然语言.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JD/机器质检v2.md",
+                "file": "面试/自然语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JD/机器质检v2.md",
+                "file": "面试/自然语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JD/机器质检v2.md"
+                "file": "面试/自然语言.md"
               }
             }
           }
@@ -173,6 +173,8 @@
   },
   "active": "be47295d2ea31030",
   "lastOpenFiles": [
+    "JD/质检面试讲解.md",
+    "JD/机器质检v2.md",
     "面试/LLM-interview/总结&背诵.md",
     "面试/机器学习.md",
     "面试/面经.md",
@@ -180,7 +182,6 @@
     "面试/实习.md",
     "面试/自然语言.md",
     "面试/pytorch相关.md",
-    "JD/质检面试讲解.md",
     "面试/LLM-interview/question/README.md",
     "面试/LLM-interview/answer/大模型（LLMs）微调面.md",
     "面试/LLM-interview/answer/大模型（LLMs）推理面.md",
@@ -194,7 +195,6 @@
     "面试/LLM-interview/answer/大模型（LLMs）langchain面/基于LLM+向量库的文档对话经验面.md",
     "面试/LLM-interview/answer/大模型（LLMs）langchain面/大模型（LLMs）langchain面.md",
     "JD/机器质检.md",
-    "JD/机器质检v2.md",
     "Pasted image 20231210222348.png",
     "Pasted image 20231210222243.png",
     "Pasted image 20231210222139.png",
