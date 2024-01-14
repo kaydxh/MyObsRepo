@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "be47295d2ea31030",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "面试/自然语言.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c6ca95ba4e843087",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/自然语言.md",
+                "file": "JD/机器质检.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/自然语言.md",
+                "file": "JD/机器质检.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/自然语言.md",
+                "file": "JD/机器质检.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/自然语言.md"
+                "file": "JD/机器质检.md"
               }
             }
           }
@@ -171,8 +159,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c6ca95ba4e843087",
+  "active": "6fcb1f31cd0b809e",
   "lastOpenFiles": [
+    "面试/自然语言.md",
     "JD/质检面试讲解.md",
     "JD/机器质检v2.md",
     "面试/LLM-interview/总结&背诵.md",
@@ -180,7 +169,6 @@
     "面试/面经.md",
     "面试/面试学习.md",
     "面试/实习.md",
-    "面试/自然语言.md",
     "面试/pytorch相关.md",
     "面试/LLM-interview/question/README.md",
     "面试/LLM-interview/answer/大模型（LLMs）微调面.md",
