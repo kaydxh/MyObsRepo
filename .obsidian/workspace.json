@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,7 +171,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "be47295d2ea31030",
+  "active": "c6ca95ba4e843087",
   "lastOpenFiles": [
     "JD/质检面试讲解.md",
     "JD/机器质检v2.md",
