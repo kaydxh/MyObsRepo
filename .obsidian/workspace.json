@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JD/机器质检.md",
+                "file": "JD/质检面试讲解.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JD/机器质检.md",
+                "file": "JD/质检面试讲解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JD/机器质检.md",
+                "file": "JD/质检面试讲解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JD/机器质检.md"
+                "file": "JD/质检面试讲解.md"
               }
             }
           }
@@ -159,11 +159,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6fcb1f31cd0b809e",
+  "active": "c6ca95ba4e843087",
   "lastOpenFiles": [
+    "JD/机器质检v2.md",
+    "JD/机器质检.md",
     "面试/自然语言.md",
     "JD/质检面试讲解.md",
-    "JD/机器质检v2.md",
     "面试/LLM-interview/总结&背诵.md",
     "面试/机器学习.md",
     "面试/面经.md",
@@ -182,7 +183,6 @@
     "面试/LLM-interview/answer/大模型（LLMs）参数高效微调(PEFT)面/大模型（LLMs）参数高效微调(PEFT)面.md",
     "面试/LLM-interview/answer/大模型（LLMs）langchain面/基于LLM+向量库的文档对话经验面.md",
     "面试/LLM-interview/answer/大模型（LLMs）langchain面/大模型（LLMs）langchain面.md",
-    "JD/机器质检.md",
     "Pasted image 20231210222348.png",
     "Pasted image 20231210222243.png",
     "Pasted image 20231210222139.png",
