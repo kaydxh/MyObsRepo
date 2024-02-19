@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JD/质检面试讲解.md",
+                "file": "面试/自然语言.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JD/质检面试讲解.md",
+                "file": "面试/自然语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JD/质检面试讲解.md",
+                "file": "面试/自然语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JD/质检面试讲解.md"
+                "file": "面试/自然语言.md"
               }
             }
           }
@@ -173,16 +173,17 @@
   },
   "active": "d29d046dbb653420",
   "lastOpenFiles": [
-    "JD/机器质检v2.md",
-    "JD/机器质检.md",
-    "面试/自然语言.md",
-    "面试/实习.md",
-    "面试/机器学习.md",
-    "面试/面经.md",
-    "JD/质检面试讲解.md",
-    "面试/面试学习.md",
     "面试/HR面.md",
     "面试/pytorch相关.md",
+    "面试/实习.md",
+    "面试/面试学习.md",
+    "面试/自然语言.md",
+    "JD/机器质检.md",
+    "JD/质检面试讲解.md",
+    "LLM/大模型技术一览.md",
+    "JD/机器质检v2.md",
+    "面试/机器学习.md",
+    "面试/面经.md",
     "面试/LLM-interview/总结&背诵.md",
     "面试/LLM-interview/question/README.md",
     "面试/LLM-interview/answer/大模型（LLMs）微调面.md",
@@ -203,7 +204,6 @@
     "Pasted image 20231210151746.png",
     "面试/图片",
     "面试/图片/Pasted image 20231207014322.png",
-    "LLM/大模型技术一览.md",
     "JD/图片/Pasted image 20231203170630.png",
     "JD/~$dialog8000.xlsx",
     "README.md",
